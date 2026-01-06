@@ -1,1 +1,2 @@
 a1 file modified again in master branch
+a1 file modified in feature branch
